@@ -35,7 +35,7 @@ projects: []
 publishDate: '2021-06-12T03:07:49.059845Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Unpaired image-to-image translation aims to translate images from the source class to target one by providing sufficient data for these classes. Current few-shot translation methods use multiple reference images to describe the target domain through extracting common features. In this paper, we focus on a more specific identity transfer problem and advocate that particular property in each individual image can also benefit generation. We accordingly propose a new multi-reference identity transfer framework by simultaneously making use of particularity and commonality of reference. It is achieved via a semantic pyramid alignment module to make proper use of geometric information for individual images, as well as an attention module to aggregate for the final transformation. Extensive experiments demonstrate the effectiveness of our framework given the promising results in a number of identity transfer applications.'
 publication: 'In *European Conference on Computer Vision*'
 # publication_short: 'In *ECCV*'
 url_pdf: 'https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490443.pdf'
