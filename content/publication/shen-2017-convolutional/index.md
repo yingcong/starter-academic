@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2021-06-12T03:07:47.159471Z'
 publication_types:
-- '2'
+- '4'
 abstract: 'We propose a principled convolutional neural pyramid (CNP) framework for general low-level vision and image processing tasks. It is based on the essential finding that many applications require large receptive fields for structure understanding. But corresponding neural networks for regression either stack many layers or apply large kernels to achieve it, which is computationally very costly. Our pyramid structure can greatly enlarge the field while not sacrificing computation efficiency. Extra benefit includes adaptive network depth and progressive upsampling for quasi-realtime testing on VGA-size input. Our method profits a broad set of applications, such as depth/RGB image restoration, completion, noise/artifact removal, edge refinement, image filtering, image enhancement and colorization.'
 publication: '*arXiv preprint arXiv:1704.02071*'
 url_pdf: 'https://arxiv.org/abs/1704.02071'
