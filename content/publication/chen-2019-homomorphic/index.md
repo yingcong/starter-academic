@@ -36,6 +36,7 @@ publication_types:
 abstract: 'Generative adversarial networks have achieved great success in unpaired image-to-image translation. Cycle consistency allows modeling the relationship between two distinct domains without paired data. In this paper, we propose an alternative framework, as an extension of latent space interpolation, to consider the intermediate region between two domains during translation. It is based on the fact that in a flat and smooth latent space, there exist many paths that connect two sample points. Properly selecting paths makes it possible to change only certain image attributes, which is useful for generating intermediate images between the two domains. We also show that this framework can be applied to multi-domain and multi-modal translation. Extensive experiments manifest its generality and applicability to various tasks.'
 publication: '*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
   Recognition* (**Oral**, Acceptance Rate: 5.6%)'
+url_pdf: 'https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Homomorphic_Latent_Space_Interpolation_for_Unpaired_Image-To-Image_Translation_CVPR_2019_paper.html'
 url_code: 'https://github.com/yingcong/HomoInterpGAN'
 url_video: 'https://www.youtube.com/watch?v=bx3zeh0SJZ4'
 ---
