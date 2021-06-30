@@ -72,6 +72,12 @@ highlight_name: true
 
 Ying-Cong Chen is a Postdoctoral Associate at Computer Science & Artificial Intelligence Lab of Massachusetts Institute of Technology, working with Prof. Dina Katabi. He obtained his Ph.D. degree from the Chinese University of Hong Kong. His research lies in the broad area of computer vision and machine learning, aiming for empowering machine with the capacity to understand human appearance, physiology and psychology. His works contribute to a wide range of applications, including contactless health monitoring, semantic photo synthesis, and intelligent video surveillance. 
 
+**Update:**
+
+ <span style="color:red"> I will join [AI Thrust, Information Hub](https://hkust-gz.edu.cn/academics/four-hubs/information-hub/artificial-intelligence) of [Hong Kong University of Science and Technology (Guangzhou Campus)](https://hkust-gz.edu.cn) as an Assistant Professor in August, 2021. I am looking for talented students to work with on innovative computer vision and machine learning projects. PhD/RA/Postdoc positions are available. The salaries will be highly competitive. Please drop me an [email](mailto:yingcong.ian.chen@gmail.com) if you are interested. </span> 
+
+<span style="color:red"> The Guangzhou campus is a new campus of HKUST, focusing on interdisciplinary research. We will make a great difference to both academia and society. For those who want to know more about this new campus, please visit this [link](https://mp.weixin.qq.com/s/11yr8YT4h_YofkceTm7AeA) (in Chinese) for a brief introduction. </span> 
+
 <!-- Ying-Cong Chen is a Postdoctoral Associate at Computer Science & Artificial Intelligence Lab of Massachusetts Institute of Technology, working with Prof. Dina Katabi. He earned his Ph.D. degree from the CSE department of the Chinese University of Hong Kong. His advisor is Prof. Jiaya Jia. Prior to that, He received my Bachelor and Master degree from Sun Yat-sen University, supervised by Prof. Jianhuang Lai and Prof. Wei-Shi Zheng. His research interest includes computer vision, machine learning, and artificial intelligence. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
