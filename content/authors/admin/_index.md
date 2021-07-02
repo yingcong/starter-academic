@@ -70,7 +70,7 @@ email: "yingcong@mit.edu"
 highlight_name: true
 ---
 
-Ying-Cong Chen is a Postdoctoral Associate at Computer Science & Artificial Intelligence Lab of Massachusetts Institute of Technology, working with Prof. Dina Katabi. He obtained his Ph.D. degree from the Chinese University of Hong Kong. His research lies in the broad area of computer vision and machine learning, aiming for empowering machine with the capacity to understand human appearance, physiology and psychology. His works contribute to a wide range of applications, including contactless health monitoring, semantic photo synthesis, and intelligent video surveillance. 
+Ying-Cong Chen is a Postdoctoral Associate at [Computer Science & Artificial Intelligence Lab](https://www.csail.mit.edu) of [Massachusetts Institute of Technology](https://www.mit.edu), working with Prof. [Dina Katabi](https://people.csail.mit.edu/dina). He obtained his Ph.D. degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), working with Prof. [Jiaya Jia](https://jiaya.me). His research lies in the broad area of computer vision and machine learning, aiming for empowering machine with the capacity to understand human appearance, physiology and psychology. His works contribute to a wide range of applications, including contactless health monitoring, semantic photo synthesis, and intelligent video surveillance. 
 
 **Update:**
 
