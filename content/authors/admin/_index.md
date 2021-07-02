@@ -74,7 +74,7 @@ Ying-Cong Chen is a Postdoctoral Associate at Computer Science & Artificial Inte
 
 **Update:**
 
- <span style="color:red"> I will join [AI Thrust, Information Hub](https://hkust-gz.edu.cn/academics/four-hubs/information-hub/artificial-intelligence) of [Hong Kong University of Science and Technology (Guangzhou Campus)](https://hkust-gz.edu.cn) as an Assistant Professor. I am looking for talented students to work with on innovative computer vision and machine learning projects. PhD/RA/Postdoc positions are available. The salaries will be highly competitive. Please drop me an [email](mailto:yingcong.ian.chen@gmail.com) if you are interested. </span> 
+ <span style="color:red"> I will join [AI Thrust, Information Hub](https://hkust-gz.edu.cn/academics/four-hubs/information-hub/artificial-intelligence) of [Hong Kong University of Science and Technology (Guangzhou Campus)](https://hkust-gz.edu.cn) as an Assistant Professor, and [department of Computer Science & Engineering](https://www.cse.ust.hk) (Clear Water Bay Campus) as an Affiliated Assistant Professor. I am looking for talented students to work with on innovative computer vision and machine learning projects. PhD/RA/Postdoc positions are available. The salaries will be highly competitive. Please drop me an [email](mailto:yingcong.ian.chen@gmail.com) if you are interested. </span> 
 
 <span style="color:red"> The Guangzhou campus is a new campus of HKUST, focusing on interdisciplinary research. We will make a great difference to both academia and society. For those who want to know more about this new campus, please visit this [link](https://mp.weixin.qq.com/s/11yr8YT4h_YofkceTm7AeA) (in Chinese) for a brief introduction. </span> 
 
