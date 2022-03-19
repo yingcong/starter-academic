@@ -43,4 +43,6 @@ publication: 'In *Proceedings of the IEEE International Conference on Computer V
 # links:
 # - name: Custom Link
 #   url: http://example.org
+url_pdf: 'https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Image_Synthesis_via_Semantic_Composition_ICCV_2021_paper.pdf'
+url_code: 'https://github.com/dvlab-research/SCGAN'
 ---

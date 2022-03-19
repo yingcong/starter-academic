@@ -5,8 +5,9 @@ weight: 129
 
 ## Reviewer/(Senior) Program Committee Member of:
 
+- International Joint Conference on Artificial Intelligence (IJCAI) (Senior PC)  
 - European Conference on AI (ECAI)
-- International Joint Conference on Artificial Intelligence (IJCAI) (**Senior PC**)  
+- International Conference on Machine Learning (ICML)
 - International Conference on Computer Vision (ICCV)  
 - International Conference on Computer Vision and Pattern Recognition (CVPR)  
 - European Conference on Computer Vision (ECCV) 

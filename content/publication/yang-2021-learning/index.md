@@ -43,6 +43,7 @@ Person re-identification (ReID) has gained an impressiveprogress in recent years
 publication: 'In *Proceedings of the IEEE International Conference on Computer Vision*'
 # publication_short: 'In *CVPR*'
 # url_pdf: 'https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Spatial-Temporal_Graph_Convolutional_Network_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.html'
+url_pdf: 'https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Learning_To_Know_Where_To_See_A_Visibility-Aware_Approach_for_ICCV_2021_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
