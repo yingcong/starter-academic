@@ -10,7 +10,7 @@ authors:
 - admin
 - Hao Wang
 - Dina Katabi
-tags: ['Regression']
+tags: ['Machine Learning']
 categories: []
 date: '2021-06-01'
 # lastmod: 2021-06-12T11:07:49+08:00
