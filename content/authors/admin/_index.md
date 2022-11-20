@@ -10,7 +10,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Hong Kong University of Science and Technology (Guangzhou Campus)
+- name: Hong Kong University of Science and Technology (Guangzhou)
   url: https://hkust-gz.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
