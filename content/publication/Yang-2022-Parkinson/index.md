@@ -31,7 +31,7 @@ publication_types: ["2"]
 
 abstract: "There are currently no effective biomarkers for diagnosing Parkinson’s disease (PD) or tracking its progression. Here, we developed an artificial intelligence (AI) model to detect PD and track its progression from nocturnal breathing signals. The model was evaluated on a large dataset comprising 7,671 individuals, using data from several hospitals in the United States, as well as multiple public datasets. The AI model can detect PD with an area-under-the-curve of 0.90 and 0.85 on held-out and external test sets, respectively. The AI model can also estimate PD severity and progression in accordance with the Movement Disorder Society Unified Parkinson’s Disease Rating Scale (R= 0.94). The AI model uses an attention layer that allows for interpreting its predictions with respect to sleep and electroencephalogram. Moreover, the model can assess PD in the home setting in a touchless manner, by extracting breathing from radio waves that bounce off a person’s body during sleep. Our study demonstrates the feasibility of objective, noninvasive, at-home assessment of PD, and also provides initial evidence that this AI model may be useful for risk assessment before clinical diagnosis."
 
-publication: '*Neture Medicine*'
+publication: '*Nature Medicine*'
 # Summary. An optional shortened abstract.
 summary: ""
 
