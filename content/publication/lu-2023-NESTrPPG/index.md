@@ -16,7 +16,7 @@ author_notes:
 - "Corresponding Author"
 tags: ['AI for Healthcare', 'Domain Generalization']
 categories: []
-date: '2023-6-18'
+date: '2023-06-13'
 # lastmod: 2023-6-07T11:07:49+08:00
 featured: true
 draft: false
