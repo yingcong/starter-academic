@@ -37,6 +37,7 @@ abstract: 'Conditional diffusion models have demonstrated impressive performance
 url_code: 'https://github.com/AndysonYs/Selective-Diffusion-Distillation'
 publication: 'In *Proceedings of the IEEE International Conference on Computer Vision (ICCV)*'
 #url_video: 'publication/chen-2020-homomorphic/video.mp4'
-# url_pdf: https://arxiv.org/abs/2307.08448
+url_pdf: https://arxiv.org/abs/2307.08448
+
 
 ---
