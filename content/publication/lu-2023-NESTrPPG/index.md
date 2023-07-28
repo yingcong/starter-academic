@@ -9,11 +9,11 @@ authors:
 - Zitong Yu
 - Xuesong Niu
 - admin
-author_notes:
-- ""
-- ""
-- ""
-- "Corresponding Author"
+# author_notes:
+# - ""
+# - ""
+# - ""
+# - "Corresponding Author"
 tags: ['AI for Healthcare', 'Domain Generalization']
 categories: []
 date: '2023-06-13'
