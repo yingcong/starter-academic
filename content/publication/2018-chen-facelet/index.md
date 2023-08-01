@@ -41,5 +41,5 @@ abstract: ''
 publication: '*Proceedings of the IEEE conference on computer vision and pattern recognition*'
 url_pdf: 'https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Facelet-Bank_for_Fast_CVPR_2018_paper.html'
 url_code: 'https://github.com/dvlab-research/Facelet_Bank'
-url_video: 'publication/chen-2018-facelet/facelet.mp4'
+url_video: 'publication/2018-chen-facelet/facelet.mp4'
 ---

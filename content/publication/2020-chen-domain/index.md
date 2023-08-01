@@ -36,5 +36,5 @@ abstract: 'Unpaired image-to-image translation (I2I) has achieved great success 
 '
 publication: '*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*'
 url_pdf: 'https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Domain_Adaptive_Image-to-Image_Translation_CVPR_2020_paper.html'
-url_video: 'publication/chen-2020-domain/DAI2I.mp4'
+url_video: 'publication/2020-chen-domain/DAI2I.mp4'
 ---

@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/qi2021pointins/qi2021pointins.pdf'
+# url_pdf: 'publication/qi2021pointins/2021-qi-pointins.pdf'
 url_code: 'https://github.com/qqlu/PointINS'
 url_dataset: ''
 url_poster: ''

@@ -40,5 +40,5 @@ abstract: 'Deep neural network-based methods were proposed for face attribute ma
 publication: '*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
   Recognition*'
 url_pdf: 'https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Semantic_Component_Decomposition_for_Face_Attribute_Manipulation_CVPR_2019_paper.html'
-url_video: 'publication/chen-2019-semantic/video.mp4'
+url_video: 'publication/2019-chen-semantic/video.mp4'
 ---

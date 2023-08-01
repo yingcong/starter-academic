@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/xu2021text/xu2021text.pdf'
+# url_pdf: 'publication/xu2021text/xu2021text.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
