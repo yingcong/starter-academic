@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.com.hk/citations?user=n7j4bJUAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/yingcong
+  link: https://github.com/EnVision-Research
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
