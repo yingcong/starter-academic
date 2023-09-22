@@ -14,7 +14,7 @@ authors:
 # - ""
 # - ""
 # - "Corresponding Author"
-tags: ['3D Vision', 'Autonomous Driving']
+tags: ['3D Vision']
 categories: []
 featured: false
 draft: false

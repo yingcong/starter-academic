@@ -10,7 +10,7 @@ authors:
 - Shishi Xiao
 - Hao Lu
 - admin
-tags: ['3D Perception', 'Point Cloud Segmentation']
+tags: ['3D Vision']
 categories: []
 date: '2023-03-19'
 lastmod: 2023-03-19T11:07:49+08:00
