@@ -19,4 +19,3 @@ weight: 129
 - IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI)
 - International Journal of Computer Vision (IJCV) 
 - IEEE Transaction on Image Processing (TIP) 
-- Neurocomputing 
